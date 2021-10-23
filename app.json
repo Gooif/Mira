@@ -1,9 +1,9 @@
 {
-    "name": "UFOVc",
-    "logo": "https://telegra.ph/file/7618711bbdb9f03ed989e.jpg",
+    "name": "Mira",
+    "logo": "https://telegra.ph/file/56f3604b4cbe6b96d09dc.jpg",
     "description": "UFO Music Voice Chat.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/MSaleMD/UFoVC",
+    "repository": "https://github.com/ccc1cic/Mira",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -20,24 +20,24 @@
             "value": ""
         },
         "BOT_USERNAME": {
-            "description": "يوزر نيــم بوتــك من غير -> @",
+            "description": "يوزر نيــم بوتــك منغيــر -> @",
             "required": true,
-            "value": "C94_Bot"
+            "value": "NQKBot"
         },
         "ASSISTANT_NAME": {
-            "description": "يوزر نيــم البوت المساعد منغيــر ->  @",
+            "description": "يوزر نيــم أسيستانتــ بوتـ منغيــر ->  @",
             "required": true,
-            "value": "xU99U"
+            "value": "KtttG"
         },
         "BG_IMAGE": {
             "description": "خلــفية",
             "required": false,
-            "value": "https://telegra.ph/file/6d31d6b18722ce94521cb.jpg"
+            "value": "https://telegra.ph/file/56f3604b4cbe6b96d09dc.jpg"
         },
         "THUMB_IMG": {
             "description": "سيبــها زي مهي عادي يبا -> bg_image",
             "required": false,
-            "value": "https://telegra.ph/file/6d31d6b18722ce94521cb.jpg"
+            "value": "https://telegra.ph/file/56f3604b4cbe6b96d09dc.jpg"
         },
         "OWNER_NAME": {
             "description": "حط يوزركـــ منغــير -> @",
@@ -67,14 +67,14 @@
             "value": "ENABLE"
         },
         "UPDATES_CHANNEL": {
-            "description": "تحديثاتــ سورس ميرا !!!",
+            "description": "تحديثاتــ سورس يــوفـــو !!!",
             "required": false,
-            "value": "WzUserBoT"
+            "value": "XkkkU"
         },
         "GROUP_SUPPORT": {
-            "description": "جروبــ ميرا",
+            "description": "جروبــ الدعــم",
             "required": false,
-            "value": "WzSuPPort"
+            "value": "xKkkU"
         }
     },
     "buildpacks": [
