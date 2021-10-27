@@ -22,7 +22,7 @@
         "BOT_USERNAME": {
             "description": "يوزر نيــم بوتــك منغيــر -> @",
             "required": true,
-            "value": "NQKBot"
+            "value": "Yej0Bot"
         },
         "ASSISTANT_NAME": {
             "description": "يوزر نيــم أسيستانتــ بوتـ منغيــر ->  @",
@@ -42,7 +42,7 @@
         "OWNER_NAME": {
             "description": "حط يوزركـــ منغــير -> @",
             "required": false,
-            "value": "C1CIC"
+            "value": "iiiziiii"
         },
         "API_ID": {
             "description": "حــط App ID from my.telegram.org/apps",
@@ -69,12 +69,12 @@
         "UPDATES_CHANNEL": {
             "description": "تحديثاتــ سورس يــوفـــو !!!",
             "required": false,
-            "value": "XkkkU"
+            "value": "rnnni"
         },
         "GROUP_SUPPORT": {
             "description": "جروبــ الدعــم",
             "required": false,
-            "value": "xKkkU"
+            "value": "rnnni"
         }
     },
     "buildpacks": [
